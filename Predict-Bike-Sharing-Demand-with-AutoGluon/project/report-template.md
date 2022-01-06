@@ -1,5 +1,6 @@
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
-### Teofilo Chichume
+
+#### Teofilo Chichume
 
 
 ### Initial Training
@@ -45,12 +46,12 @@ gbm_options = {
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score_img.PNG)
+![model_train_score.png](img/model_train_score_img.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.PNG)
+![model_test_score.png](img/model_test_score.png)
 
 ## Summary
 TODO: In this case study we build the regression model to predict the bike demand given the bike sharing historical data. We first analyzed the features, plotting sample rows and using pandas describe method. Then we build initial first model with default parameters. 
